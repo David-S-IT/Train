@@ -1,1 +1,1 @@
-# Drowing train on Python with PIL
+# Drawing a train in Python with PIL
