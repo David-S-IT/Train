@@ -73,6 +73,7 @@ from PIL import Image, ImageDraw
 
 # Попытка 4
 def train(file_output):
+    # Заготовки
     # draw.ellipse((0, 0, 50, 50), fill='red')  # круг
     # draw.rectangle((40, 110, 80, 150), fill=(197, 90, 17))  # прямоугольник
     # draw.polygon([(100, 0), (0, 200), (200, 200)], fill='red')  # треугольник
